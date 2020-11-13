@@ -4,7 +4,6 @@ Creating a new branch is quick and simple.
 分支管理策略
 dev上面的分支创建一个新的2233.txt
 
-fastforward merge 看看效果
+fastforward merge 看看效果  吧
 
 假设在dev上工作，这时候有个BUG跳出来需要修复
-
