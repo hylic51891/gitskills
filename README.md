@@ -1,2 +1,3 @@
 # gitskills
 learning git....
+git is not easy to learn.
